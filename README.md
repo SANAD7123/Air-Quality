@@ -12,7 +12,7 @@ Initial exploration includes:
 ________________________________________
 🧼 3. Handling Missing Data
 •	Missing data detected ✅
-•	Dropped or imputed using mean values ➕
+•	Dropped or imputed using mean values ➕  
 •	Cleaned dataset ready for analysis 🧹
 ________________________________________
 🎯 4. Project Objectives
